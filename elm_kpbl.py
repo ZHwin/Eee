@@ -1,3 +1,5 @@
+const $ = new Env('饿了么卡皮巴拉');
+
 import json
 import logging
 import os
