@@ -1,4 +1,4 @@
-const $ = new Env('饿了么跳一跳');
+# const $ = new Env('饿了么跳一跳');
 import hashlib
 import os
 import re
