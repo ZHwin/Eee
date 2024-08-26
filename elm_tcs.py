@@ -1,3 +1,5 @@
+# const $ = new Env('贪吃蛇')
+
 import os
 import re
 import time
