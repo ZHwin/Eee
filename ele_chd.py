@@ -1,5 +1,7 @@
-const $ = new Env('饿了么吃货豆');
+"""
+new Env('饿了么吃货豆');
 
+"""
 import hashlib
 import os
 import re
