@@ -1,3 +1,4 @@
+const $ = new Env('饿了么特级厨师');
 const {
     getEnvsByName,
     DisableCk,
