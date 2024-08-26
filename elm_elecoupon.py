@@ -1,4 +1,4 @@
-const $ = new Env('饿了么抢卷');
+# const $ = new Env('饿了么抢卷');
 import os
 import re
 import time
