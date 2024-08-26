@@ -1,3 +1,4 @@
+const $ = new Env('饿了么合成甜蜜蜜');
 const {
   sign,
   getToken,
