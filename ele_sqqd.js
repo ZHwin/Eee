@@ -1,3 +1,4 @@
+const $ = new Env('饿了么社群签到');
 const request = require("request"),
       {
   getToken,
