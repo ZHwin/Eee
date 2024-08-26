@@ -1,3 +1,4 @@
+const $ = new Env('饿了么饿了个饿');
 const {
   sign,
   getToken,
