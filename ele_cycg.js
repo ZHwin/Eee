@@ -1,3 +1,4 @@
+const $ = new Env('饿了成语闯关');
 const {
   sign,
   getToken,
