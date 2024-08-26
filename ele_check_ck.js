@@ -1,4 +1,4 @@
-const $ = new Env('饿了么特级厨师');
+const $ = new Env('饿了么续期');
 const {
     getEnvsByName,
     DisableCk,
