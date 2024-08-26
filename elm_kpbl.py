@@ -1,5 +1,5 @@
-const $ = new Env('饿了么卡皮巴拉');
-
+# cron "30 1 * * *" script-path=xxx.py,tag=匹配cron用
+# const $ = new Env('卡皮巴拉')
 import json
 import logging
 import os
