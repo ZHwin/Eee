@@ -1,3 +1,8 @@
+/**
+ * 变量：elmck: 必填
+ * cron: 0 10 * * *
+ */
+const $ = new Env('饿了么邀请抽奖');
 const {
   sign,
   getToken,
