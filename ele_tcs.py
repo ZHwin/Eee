@@ -1,3 +1,4 @@
+# cron "40 9,13,17 * * *" script-path=xxx.py,tag=匹配cron用
 # const $ = new Env('贪吃蛇')
 
 import os
