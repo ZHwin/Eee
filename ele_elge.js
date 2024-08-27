@@ -1,3 +1,7 @@
+/**
+ * 变量：elmck: 必填
+ * cron: 0 5,12,16 * * *
+ */
 const $ = new Env('饿了么饿了个饿');
 const {
   sign,
