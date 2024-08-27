@@ -1,3 +1,4 @@
+# cron "30 6,9,12 * * *" script-path=xxx.py,tag=匹配cron用
 #const $ = new Env('饿了么乐园币签到');
 
 import hashlib
