@@ -1,3 +1,5 @@
+# cron "10 *" script-path=xxx.py,tag=匹配cron用
+# const $ = new Env('饿了么助力')
 import json
 import os
 import requests
