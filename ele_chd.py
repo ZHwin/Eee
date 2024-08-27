@@ -1,7 +1,8 @@
 """
-
-new Env('饿了么吃货豆');
-
+任务名称
+name: 吃货豆
+定时规则
+cron: 1 9,13 * * *
 """
 import hashlib
 import os
