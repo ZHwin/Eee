@@ -1,3 +1,7 @@
+/**
+ * 变量：elmck: 必填
+ * cron: 0 21 * * *
+ */
 const $ = new Env('饿了么续期');
 const {
     getEnvsByName,
