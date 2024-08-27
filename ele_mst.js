@@ -1,3 +1,7 @@
+/**
+ * 变量：elmck: 必填
+ * cron: 20 9,14,19 * * *
+ */
 const $ = new Env('饿了么美食摊');
 const {
     getToken,
