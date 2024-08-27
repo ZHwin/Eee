@@ -1,3 +1,4 @@
+# cron "0 9,13,17 * * *" script-path=xxx.py,tag=匹配cron用
 # const $ = new Env('饿了么跳一跳');
 import hashlib
 import os
