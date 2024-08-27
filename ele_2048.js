@@ -1,3 +1,8 @@
+/**
+ * 变量：elmck: 必填
+ * cron: 11 8,11,15 * * *
+ * 需要安装 moment和 md5 依赖
+ */
 const $ = new Env('饿了么2048');
 const {
   getToken,
